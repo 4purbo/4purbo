@@ -1,6 +1,6 @@
 <!-- ![logo](https://github.com/4purbo/4purbo/blob/main/280934-programmer-programming-code-routine-minimalist-4k.jpg) -->
 
-<p align="center"><img src="https://github.com/4purbo/4purbo/blob/main/280934-programmer-programming-code-routine-minimalist-4k.jpg" width=850 height=450 /></p>
+<p align="center"><img src="https://github.com/4purbo/4purbo/blob/main/banner.jpg" width=850 height=450 /></p>
 
 <h1 align="center">Hi 👋, I'm Mozammel Hossain Joy</h1>
 <h3 align="center">..a passionate flutter developer from Bangladesh 🇧🇩</h3>
