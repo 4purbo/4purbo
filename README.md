@@ -34,5 +34,5 @@
 
 <hr/>
 
-<p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api?username=4purbo&show_icons=true&locale=en" alt="4purbo" /></p>
+<p ><img align="center" src="https://github-readme-stats.vercel.app/api?username=4purbo&show_icons=true&locale=en" alt="4purbo" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4purbo&" alt="4purbo" /></p>
