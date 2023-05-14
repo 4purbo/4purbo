@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Flutter 🩵**
 
-- 👨‍💻 All of my projects are available at **[GitHub]**(https://github.com/4purbo?tab=repositories)
+- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/4purbo?tab=repositories)**
 
 - You can ask me something about **Flutter 🩵**
 
