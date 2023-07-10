@@ -5,17 +5,17 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=4purbo&label=Profile%20views&color=0e75b6&style=flat" alt="4purbo" /> </p>
 
-- 🔭 I’m currently working on **Flutter 🩵**
+Hi there, I am Mozammel Hossain. I am mainly a flutter developer from Bangladesh. I also know about ReactJs and Python. I am currently a student in 10th grade. Glad to introduce myself to you.
+
+- 🤲 Religion: Islam 🕌💙
+
+- ⚡ Fun fact: **I’m 16 years old. 👀**
+
+- 🔭 I’m expert on **Flutter 🩵**
 
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/4purbo?tab=repositories)**
 
-- You can ask me something about **Flutter 🩵**
-
-- 📫 Reach me on **generalcoding164@gmail.com**
-
-- ⚡ Fun fact: **I’m 15 years old. 👀**
-
-- 🤲 Religion: Islam 🕌💙
+- 📫 Reach me on **shahrianapurbo@gmail.com**
 
 <hr/>
 
