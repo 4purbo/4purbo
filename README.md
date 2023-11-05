@@ -1,11 +1,11 @@
-<h2 align="right">Mozammel Hossain Joy</h2>
+<h2 align="right">Mozammel H. Joy</h2>
 <h3 align="right">(a passionate flutter developer from Bangladesh) 🇧🇩</h3>
 
 <hr/>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=4purbo&label=Profile%20views&color=0e75b6&style=flat" alt="4purbo" /> </p>
 
-Hi there, I am Mozammel Hossain. I am mainly a flutter developer from Bangladesh. I also know about ReactJs and Python. I am currently a student in 10th grade. Glad to introduce myself to you.
+Hello, I'm Mozammel Hossain Joy, a dedicated software developer based in Bangladesh. With a strong passion for programming, I bring 3 years of hands-on experience to the table. My expertise primarily lies in Flutter, where I've honed my skills for 2 years, and I also had the privilege of teaching Flutter at Viewo for an entire year.In addition to Flutter, I possess proficiency in a variety of other technologies, including ReactJS, Python, C, and web development with HTML, CSS, and JavaScript. I proudly consider myself a versatile freelancer, ready to take on exciting projects. I'm committed to delivering professional solutions and look forward to making a valuable contribution to your team or project.
 
 - 🤲 Religion: Islam 🕌💙
 
@@ -15,8 +15,9 @@ Hi there, I am Mozammel Hossain. I am mainly a flutter developer from Bangladesh
 
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/4purbo?tab=repositories)**
 
-- 📫 Reach me on **shahrianapurbo@gmail.com**
+- 📫 Reach me on **joy.20151616518@gmail.com**
 
+Also visit **[my portfolio](https://4purbo.github.io)**
 <hr/>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=4purbo&theme=radical" alt="4purbo" /></p>
