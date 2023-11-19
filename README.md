@@ -41,7 +41,7 @@ Also visit **[my portfolio](https://4purbo.github.io)**
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
-See all the skills at(https://4purbo.github.io/#skills)
+See all the skills at (https://4purbo.github.io/#skills)
 
 <hr/>
 <p align="center"><img src="https://github.com/4purbo/4purbo/blob/main/banner.jpg" width = 80%/></p>
