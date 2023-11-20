@@ -1,4 +1,4 @@
-<h2 align="right">Mozammel H. Joy</h2>
+<h2 align="right">Mozammel Hossain Joy</h2>
 <h3 align="right">(a passionate flutter developer from Bangladesh) 🇧🇩</h3>
 
 <hr/>
