@@ -9,9 +9,9 @@ Hello, I'm Mozammel Hossain Joy, a dedicated software developer based in Banglad
 
 - 🤲 Religion: Islam 🕌💙
 
-- 👨‍💻 All of my projects are available at **[Projects](https://4purbo.github.io/#projects)**
+- 👨‍💻 All of my projects are available at **[Projects](https://mozammel.netlify.app/projects)**
 
-Also visit **[my portfolio](https://4purbo.github.io)**
+Also visit **[my portfolio](https://bit.ly/3Vjs6K1)**
 <hr/>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=4purbo&theme=radical" alt="4purbo" /></p>
